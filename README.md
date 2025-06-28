@@ -1,5 +1,3 @@
-Claro, Rodrigo! Aqui está um exemplo de um README.md para o seu projeto de calculadora orientada a objetos em Java:
-
 🧮 Calculadora Java - Orientada a Objetos
 Este projeto tem como objetivo a construção de uma calculadora básica utilizando os princípios da programação orientada a objetos em Java. Ele faz parte de um exercício prático proposto em aula.
 ✨ Funcionalidades Implementadas
