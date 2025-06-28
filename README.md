@@ -19,16 +19,20 @@ Para garantir o correto funcionamento da calculadora, foram implementados testes
 🧠 **Exemplo de Teste**
 
 @Test
-public void deveSomarCorretamenteQuandoOsValoresForemInteiros() {
+
+public void deveSomarCorretamenteQuandoOsValoresSaoInteiros() {
+
     double valor1 = 2;
+
     double valor2 = 2;
+
     double resultadoEsperado = 4;
+
     Calculadora calculadora = new Calculadora();
 
-    double valorCalculado = calculadora.soma(valor1, valor2);
+    double valorCalculado = calculadora.somar(valor1, valor2);
 
-    Assert.assertEquals(resultadoEsperado, valorCalculado, 0.01);
+    Assert.assertEquals(resultadoEsperado, valorCalculado 0.01);
 }
-
 
 
